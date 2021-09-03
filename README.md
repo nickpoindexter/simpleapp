@@ -1,2 +1,0 @@
-# simpleapp
-testing with autodeploy
