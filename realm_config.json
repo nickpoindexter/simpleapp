@@ -1,7 +1,8 @@
 {
-    "app_id": "application-0-hungr",
+    "app_id": "auto-code-deploy-cbffx",
     "config_version": 20210101,
-    "name": "Application-0",
+    "name": "auto-code-deploy",
     "location": "US-VA",
-    "deployment_model": "GLOBAL"
+    "deployment_model": "GLOBAL",
+    "environment": "qa"
 }
